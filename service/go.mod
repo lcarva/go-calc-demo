@@ -3,7 +3,7 @@ module github.com/liornabat-sealights/go-calc-demo/service
 go 1.19
 
 require (
-	github.com/go-resty/resty/v2 v2.7.0
+	github.com/go-resty/resty/v2 v2.16.5
 	github.com/labstack/echo/v4 v4.9.0
 	github.com/liornabat-sealights/go-calc-demo/lib v0.0.0-20230515080532-061b771da91e
 )
