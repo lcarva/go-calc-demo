@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/go-resty/resty/v2 v2.7.0
-	github.com/labstack/echo/v4 v4.9.0
+	github.com/labstack/echo/v4 v4.13.4
 	github.com/liornabat-sealights/go-calc-demo/lib v0.0.0-20230515080532-061b771da91e
 )
 
